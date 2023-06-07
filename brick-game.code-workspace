@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "name": "Brick Game",
+            "path": "."
+        }
+    ],
+    "settings": {},
+    "extensions": {
+        "recommendations": [
+            "sumneko.lua",
+            "keyring.lua",
+            "yinfei.luahelper",
+            "undermywheel.roblox-lua",
+            "johnnymorganz.luau-lsp"
+        ]
+    }
+}

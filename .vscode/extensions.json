@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "sumneko.lua",
+        "keyring.lua",
+        "yinfei.luahelper",
+        "undermywheel.roblox-lua",
+        "johnnymorganz.luau-lsp"
+    ]
+}
