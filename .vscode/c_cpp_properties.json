@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/lib/lua-5.4.2/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cppStandard": "c++20"
+        },
+        {
+            "name": "Win32-0",
+            "includePath": [
+                "c:\\brick-game/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c23",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "macos-clang-x64",
+            "mergeConfigurations": false,
+            "compilerPath": "",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
